@@ -1,0 +1,7 @@
+export {default as Home} from './Dashboard/Home'
+export {default as Cart} from './Dashboard/Cart'
+export {default as Products} from './Dashboard/Products'
+export {default as Settings} from './Dashboard/Settings'
+export {default as ColorPicker} from './Dashboard/ColorPicker'
+export {default as RollDice} from './Dashboard/RollDice'
+export {default as CurrencyConverter} from './Dashboard/CurrencyConverter'
